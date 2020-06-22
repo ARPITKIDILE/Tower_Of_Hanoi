@@ -50,4 +50,9 @@ C++,OPENGL,GLUT
 5. Once all disks are moved to third tower the game terminates by displaying total moves and time taken.
 6. To get a demo you can run the .exe file of the repository.
 ```
-***************************************
+******************************************************************************************
+### *Authors*:
+
+- **Arpit Kidile** [ARPITKIDILE](https://github.com/ARPITKIDILE)
+- **Amarkumar Mishra** [IamAmarMishra](https://github.com/IamAmarMishra)
+******************************************************************************************
